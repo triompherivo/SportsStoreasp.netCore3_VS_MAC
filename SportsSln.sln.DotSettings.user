@@ -20,5 +20,6 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.NavigationMenuViewComponentTests&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.CartPageTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.OrderControllerTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

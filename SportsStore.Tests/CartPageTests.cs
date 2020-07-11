@@ -38,13 +38,16 @@ namespace SportsStore.Tests
             mockContext.SetupGet(c => c.Session).Returns(mockSession.Object);
             
             // Action
-            CartModel cartModel = new CartModel(mockRepo.Object) {
+            CartModel cartModel = new CartModel(mockRepo.Object, testCart);
+            /*
+            {
                 PageContext = new PageContext(new ActionContext { 
                     HttpContext = mockContext.Object,
                     RouteData = new RouteData(),
                     ActionDescriptor = new PageActionDescriptor()
                 }) 
             };
+            */
             cartModel.OnGet("myUrl");
             //Assert
             Assert.Equal(2, cartModel.Cart.Lines.Count()); 
@@ -66,11 +69,14 @@ namespace SportsStore.Tests
             Mock<HttpContext> mockContext = new Mock<HttpContext>(); 
             mockContext.SetupGet(c => c.Session).Returns(mockSession.Object);
             // Action
-            CartModel cartModel = new CartModel(mockRepo.Object) {
+            CartModel cartModel = new CartModel(mockRepo.Object, testCart);
+            /*
+            {
                 PageContext = new PageContext(new ActionContext { HttpContext = mockContext.Object,
                     RouteData = new RouteData(),
                     ActionDescriptor = new PageActionDescriptor()
                 }) };
+                */
             cartModel.OnPost(1, "myUrl");
             //Assert
             Assert.Single(testCart.Lines);
