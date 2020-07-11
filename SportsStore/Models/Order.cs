@@ -20,5 +20,7 @@ namespace SportsStore.Models
         public string Zip { get; set; }
         [Required(ErrorMessage = "Please enter a country name")] public string Country { get; set; }
         public bool GiftWrap { get; set; }
+        [BindNever]
+        public bool Shipped { get; set; }
     }
 }
