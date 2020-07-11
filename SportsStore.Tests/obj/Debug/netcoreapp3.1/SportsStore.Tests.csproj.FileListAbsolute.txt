@@ -134,3 +134,4 @@
 /Users/triompheramandalahy/SportsSln/SportsStore.Tests/obj/Debug/netcoreapp3.1/SportsStore.Tests.dll
 /Users/triompheramandalahy/SportsSln/SportsStore.Tests/obj/Debug/netcoreapp3.1/SportsStore.Tests.pdb
 /Users/triompheramandalahy/SportsSln/SportsStore.Tests/obj/Debug/netcoreapp3.1/SportsStore.Tests.genruntimeconfig.cache
+/Users/triompheramandalahy/SportsSln/SportsStore.Tests/bin/Debug/netcoreapp3.1/libman.json

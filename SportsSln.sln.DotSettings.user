@@ -2,6 +2,11 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7f1f9ca7_002Db732_002D4dc8_002D8fa0_002Deb37491ffcb4/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Can_Paginate" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.ProductControllerTests.Can_Paginate&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.NavigationMenuViewComponentTests.Indicates_Selected_Category&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.ProductControllerTests.Generate_Category_Specific_Product_Count&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.CartTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.CartPageTests.Can_Load_Cart&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.CartPageTests.Can_Update_Cart&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9041d426_002Df421_002D4e37_002D82de_002Df2c7066d4e59/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Can_Use_Repository" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
@@ -9,5 +14,11 @@
     &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.ProductControllerTests.Can_Use_Repository&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.PageLinkTagHelperTests.Can_Generate_Page_Links&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.ProductControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf22bd2f_002D6b15_002D42a1_002D9e0d_002D8c9d83c10c7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="NavigationMenuViewComponentTests" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.NavigationMenuViewComponentTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::F1E98DF3-A299-4950-8453-C0D56545EE48::.NETCoreApp,Version=v3.1::SportsStore.Tests.CartPageTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
